@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /d3ddd-demos/
+Sitemap: https://mxhoaib.github.io/sitemap.xml
+Sitemap: https://mxhoaib.github.io/how-it-works/sitemap.xml
+Sitemap: https://mxhoaib.github.io/shoaib-site/sitemap.xml
